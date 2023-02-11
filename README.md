@@ -19,17 +19,6 @@ Visit `http://localhost:5085` in your browser. The app should be up & running.
 
 <br />
 
-## ✨ How to use it
-
-> Download the code 
-
-```bash
-$ git clone https://github.com/app-generator/flask-adminlte.git
-$ cd flask-adminlte
-```
-
-<br />
-
 ### 👉 Create Users
 
 By default, the app redirects guest users to authenticate. In order to access the private pages, follow this set up: 
